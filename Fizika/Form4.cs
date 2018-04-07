@@ -17,17 +17,9 @@ namespace Fizika
             InitializeComponent();
         }
 
-        bool answer;
-
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            textBox1.Text = Convert.ToString(answer);
 
-            answer = false;
-            if (answer == true)
-            {
-
-            }           
         }
     }
 }
