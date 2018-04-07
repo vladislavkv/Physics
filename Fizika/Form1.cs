@@ -28,5 +28,12 @@ namespace Fizika
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form3 myForm3 = new Form3();
+            myForm3.Show();
+            this.Hide();
+        }
     }
 }

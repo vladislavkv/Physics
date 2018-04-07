@@ -117,11 +117,20 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="arabesko.ru_01" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\arabesko.ru_01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Согласно современным представлениям, атом состоит из ядра и расположенных вокруг него
+электронов. Ядро атома, в свою очередь, состоит из более малых элементарных частиц ‒ из
+определенного количества протонов и нейтронов.
+</value>
   </data>
-  <data name="f114" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\f114.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="label2.Text" xml:space="preserve">
+    <value>Количество протонов в ядре определяет строение электронной оболочки атома. А электронная
+оболочка определяет физико-химические свойства вещества. Число протонов соответствует
+порядковому номеру атома в периодической системе химических элементов Менделеева,
+именуется также зарядовое число, атомный номер, атомное число. Например, число протонов
+у атома Гелия – 2. В периодической таблице он стоит под номером 2 и обозначается как He2
+Символом для обозначения количества протонов служит латинская буква Z. При записи формул
+зачастую цифра, указывающая на количество протонов, располагается снизу от символа элемента
+либо справа, либо слева: He2 / 2He</value>
   </data>
 </root>
