@@ -70,6 +70,7 @@
             this.задачиToolStripMenuItem.Name = "задачиToolStripMenuItem";
             this.задачиToolStripMenuItem.Size = new System.Drawing.Size(64, 22);
             this.задачиToolStripMenuItem.Text = "Задачи";
+            this.задачиToolStripMenuItem.Click += new System.EventHandler(this.задачиToolStripMenuItem_Click);
             // 
             // калькуляторToolStripMenuItem
             // 

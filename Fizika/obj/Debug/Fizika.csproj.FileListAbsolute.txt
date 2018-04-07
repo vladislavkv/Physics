@@ -9,3 +9,4 @@ C:\Users\КвашукВ\Desktop\C# Uchebnik\Fizika\Fizika\obj\Debug\Fizika.exe
 C:\Users\КвашукВ\Desktop\C# Uchebnik\Fizika\Fizika\obj\Debug\Fizika.pdb
 C:\Users\КвашукВ\Desktop\C# Uchebnik\Fizika\Fizika\obj\Debug\Fizika.Form2.resources
 C:\Users\КвашукВ\Desktop\C# Uchebnik\Fizika\Fizika\obj\Debug\Fizika.Form3.resources
+C:\Users\КвашукВ\Desktop\C# Uchebnik\Fizika\Fizika\obj\Debug\Fizika.Form4.resources

@@ -35,5 +35,12 @@ namespace Fizika
             myForm3.Show();
             this.Hide();
         }
+
+        private void задачиToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form4 myForm4 = new Form4();
+            myForm4.Show();
+            this.Hide();
+        }
     }
 }
